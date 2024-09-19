@@ -9,46 +9,41 @@ export type Song = {
   
   export const songs: Song[] = [
     {
-      title: 'Off my face',
-      author: 'Justin Bieber',
+      title: 'Doxologia',
+      author: 'unknown',
       image: flowerImages.flowerImage1,
-      lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
     },
     {
-      title: 'Perfect',
-      author: 'Ed sheeran',
+      title: 'Doxologia',
+      author: 'unknown',
       image: flowerImages.flowerImage2,
-      lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
     },
     {
-      title: 'Photograph',
-      author: 'Ed sheeran',
+      title: 'Doxologia',
+      author: 'unknown',
       image: flowerImages.flowerImage3,
-      lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
+    },
+  
+    {
+      title: 'Doxologia',
+      author: 'unknown',
+      image: flowerImages.flowerImage4,
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
     },
     {
-        title: 'Love yourself',
-        author: 'Justin Bieber',
-        image: flowerImages.flowerImage4,
-        lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+      title: 'Doxologia',
+      author: 'unknown',
+      image: flowerImages.flowerImage5,
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
     },
     {
-        title: 'Lost in Love',
-        author: 'Air supply',
-        image: flowerImages.flowerImage5,
-        lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
-    },
-    {
-        title: 'My love',
-        author: 'Ed sheeran',
-        image: flowerImages.flowerImage6,
-        lyrics: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`
+      title: 'Doxologia',
+      author: 'unknown',
+      image: flowerImages.flowerImage6,
+      lyrics: `Ang Ama ay\nLu'alhatiin \nAnak ating purihin \nEspiritung\nMang-aaliw \nLaging \nIpatnubay \nAmen \nAmen`
     },
   ]
   

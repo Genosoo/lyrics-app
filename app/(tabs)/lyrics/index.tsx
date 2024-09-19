@@ -95,14 +95,14 @@ const Lyrics = () => {
             <ImageBackground source={selectedSong.image} resizeMode='cover' className='flex-1'>
             <View className='flex-1 bg-[#020202a8]'>
               <View className='flex-row items-center justify-between p-4'>
-                <Text className='text-2xl font-bold text-white'>{selectedSong.title}</Text>
                 <TouchableOpacity onPress={closeModal}>
                   <AntDesign name="closecircleo" size={24} color="#fff" />
                 </TouchableOpacity>
               </View>
 
-              <View className='p-4'>
-                <Text className='mt-2 text-white text-base'>{selectedSong.lyrics}</Text>
+              <View className='p-4 items-center'>
+              <Text className='text-3xl font-bold text-white mb-5'>{selectedSong.title}</Text>
+                <Text className='mt-2 text-white text-lg text-center'>{selectedSong.lyrics}</Text>
               </View>
             </View>
             </ImageBackground>
